@@ -1,4 +1,4 @@
-# Learn-Python
+# Learn-Python with me
 
 Ch0.1 Strings To learn the basics of Python, use the folloing code for pratice. This will teach you:
 - lists
