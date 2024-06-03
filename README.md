@@ -20,4 +20,4 @@ Ch0.2 Numbers - This will teach you:
 - casting (TO)
 - casting (FROM)
 
-Ch0.3 
+Ch0.3 To be continued
